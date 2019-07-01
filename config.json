@@ -1,0 +1,13 @@
+{
+    "url": "https://tbt-forum.herokuapp.com",
+    "secret": "fb6eca3a-9434-4ef7-9f78-adc772059a61",
+    "database": "mongo",
+    "mongo": {
+        "host": "127.0.0.1",
+        "port": 27017,
+        "username": "",
+        "password": "",
+        "database": "nodebb",
+        "uri": "mongodb+srv://root:o0i9u8y7@cluster0-b7ua9.mongodb.net/test?retryWrites=true&w=majority"
+    }
+}
